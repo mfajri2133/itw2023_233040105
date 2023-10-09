@@ -1,0 +1,49 @@
+body {
+     background-color: aqua;
+     font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+     font-family: "Comic Sans MS", cursive;
+     font-size: 60px;
+     color: darkblue;
+     text-align: center;
+}
+
+h4 {
+     text-align: right;
+     font-style: italic;
+}
+
+.hover-red:hover {
+     color: rgba(255, 0, 0, 0.9);
+     text-decoration: none;
+}
+
+.center {
+     text-align: center;
+}
+
+.end {
+     text-align: end;
+     line-height: 1.6;
+}
+
+.white {
+     color: white;
+}
+
+.yellow {
+     color: orange;
+}
+
+.facebook {
+     text-decoration: none;
+     font-weight: bold;
+     color: blue;
+}
+
+.facebook:hover {
+     color: white;
+     background-color: blue;
+}
