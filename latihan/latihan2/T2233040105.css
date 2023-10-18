@@ -45,14 +45,6 @@ body {
      margin: 0.694vw 0 0.3472vw 0;
 }
 
-.karla {
-     font-family: "Karla", sans-serif;
-}
-
-.roboto {
-     font-family: "Roboto", sans-serif;
-}
-
 .font-light {
      font-weight: 300;
 }
@@ -94,4 +86,14 @@ img {
      height: 13.889vw;
      object-fit: cover;
      object-position: 0 0;
+}
+
+/* Font Family */
+
+.karla {
+     font-family: "Karla", sans-serif;
+}
+
+.roboto {
+     font-family: "Roboto", sans-serif;
 }

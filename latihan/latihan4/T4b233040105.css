@@ -128,13 +128,43 @@ table {
      border-spacing: 0;
 }
 
+/* Font Style */
+
+.anuphan {
+     font-family: "Anuphan", sans-serif;
+}
+
+.antonio {
+     font-family: "Antonio", sans-serif;
+}
+
+.font-light {
+     font-weight: 300;
+}
+
+.font-normal {
+     font-weight: 400;
+}
+
+.font-medium {
+     font-weight: 500;
+}
+
+.font-semibold {
+     font-weight: 600;
+}
+
+.font-bold {
+     font-weight: 700;
+}
+
 /* CSS Style */
 
 body {
      font: 16px/28px arial, sans-serif;
      background-color: #eaeaea;
      color: #1f1f1f;
-     background-image: url(img/denim.webp);
+     background-image: url(img/tweed.webp);
 }
 
 .container {
@@ -181,14 +211,13 @@ body {
      background-image: url(img/css-hero.jpg);
 }
 
-.title {
+.head-article {
      padding: 50px 60px 20px 20px;
-
-     line-height: 56px;
      background-color: #1f1f1f;
+     line-height: 56px;
 }
 
-.title h1 {
+.head-article .title h1 {
      font-size: 56px;
      font-weight: bold;
      letter-spacing: 0.00002rem;
