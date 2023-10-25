@@ -26,8 +26,8 @@
 /* Style */
 body {
      font: 18px/36px;
-     /* background-color: #fff; */
-     background-image: url(../img/pixel-heart.webp);
+     background-color: #92b4ec;
+     /* background-image: url(../img/pixel-heart.webp); */
 }
 
 .header {
