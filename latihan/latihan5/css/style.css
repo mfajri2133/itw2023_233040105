@@ -90,6 +90,7 @@ body {
      width: 184px;
      height: 184px;
      position: relative;
+     border: 10px black;
 }
 
 .gallery li a img {
@@ -146,7 +147,8 @@ body {
 .overlay img {
      max-height: 100%;
      max-width: 600px;
-     box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.6);
+     border-radius: 8px;
+     box-shadow: 0 0 1.041667vw 0.06944vw rgba(0, 0, 0, 0.6);
 }
 
 .overlay:target img {
