@@ -102,6 +102,10 @@ nav ul li a:hover {
 
 /* Mobile */
 @media screen and (max-width: 567px) {
+     .menu-toggle {
+          display: flex;
+     }
+
      nav ul {
           position: absolute;
           right: 0;
@@ -121,9 +125,5 @@ nav ul li a:hover {
      nav ul.slide {
           opacity: 1;
           transform: translateX(0);
-     }
-
-     .menu-toggle {
-          display: flex;
      }
 }
